@@ -1,0 +1,24 @@
+#cart {
+  position: absolute;
+  right: 50px;
+  top: 0px;
+  font-size: 32px;
+}
+
+.itemm {
+  margin: 2px;
+  padding: 2px;
+  border: 1px solid black;
+}
+
+.item-imagem{
+  width: 20%;
+}
+
+.item-price{
+  text-align: center;
+}
+
+.itemm p {
+  font-size: 18px;
+}

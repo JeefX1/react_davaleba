@@ -1,0 +1,22 @@
+.prod-img {
+  width: 25px;
+  height: 25px;
+}
+
+table td,
+table th {
+  padding: 10px;
+}
+
+.tbl {
+  position: absolute;
+  top: 100;
+  background: #fff;
+  right: 0;
+  display: none;
+  border: 1px solid black;
+}
+
+.tblact { 
+  display: block !important;
+}
